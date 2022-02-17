@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="24px" viewBox="0 0 30 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bottom_tab2_s</title>
+    <defs>
+        <linearGradient x1="-34.8860734%" y1="-42.6603016%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#5C5FFD" offset="0%"></stop>
+            <stop stop-color="#7C42FC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="右上角插件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-131.000000, -28.000000)" fill="url(#linearGradient-1)">
+            <g id="bottom_tab2_s" transform="translate(131.000000, 28.000000)">
+                <path d="M13,12 C14.1045695,12 15,12.8954305 15,14 L15,14 L15,19 C15,21.209139 13.209139,23 11,23 L11,23 L8,23 C5.790861,23 4,21.209139 4,19 L4,19 L4,16 C4,13.790861 5.790861,12 8,12 L8,12 Z M23,12 C25.209139,12 27,13.790861 27,16 L27,19 C27,21.209139 25.209139,23 23,23 L20,23 C17.790861,23 16,21.209139 16,19 L16,14 C16,12.8954305 16.8954305,12 18,12 L23,12 Z M11,0 C13.209139,-4.05812251e-16 15,1.790861 15,4 L15,9 C15,10.1045695 14.1045695,11 13,11 L8,11 C5.790861,11 4,9.209139 4,7 L4,4 C4,1.790861 5.790861,4.05812251e-16 8,0 L11,0 Z M23,0 C25.209139,4.05812251e-16 27,1.790861 27,4 L27,4 L27,7 C27,9.209139 25.209139,11 23,11 L23,11 L18,11 C16.8954305,11 16,10.1045695 16,9 L16,9 L16,4 C16,1.790861 17.790861,-4.05812251e-16 20,0 L20,0 Z" id="形状结合"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="19px" viewBox="0 0 90 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>btn_ok</title>
+    <g id="右上角插件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="弹窗" transform="translate(-1344.000000, -330.000000)">
+            <g id="btn_ok" transform="translate(1344.000000, 330.000000)">
+                <rect id="矩形" stroke="#5D5A81" fill="#FFFFFF" x="0.5" y="0.5" width="89" height="18" rx="6"></rect>
+                <text id="OK" font-family="PingFangSC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#5D5A81">
+                    <tspan x="38.215" y="14">OK</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

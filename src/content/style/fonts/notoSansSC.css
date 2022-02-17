@@ -1,0 +1,56 @@
+/* ============================ Noto Sans SC ============================ */
+@font-face {
+    font-family: 'NotoSansSC';
+    src: url('/fonts/Noto_Sans_SC/NotoSansSC-Thin.otf');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NotoSansSC';
+    src: url('/fonts/Noto_Sans_SC/NotoSansSC-Light.otf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NotoSansSC';
+    src: url('/fonts/Noto_Sans_SC/NotoSansSC-Regular.otf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NotoSansSC';
+    src: url('/fonts/Noto_Sans_SC/NotoSansSC-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NotoSansSC';
+    src: url('/fonts/Noto_Sans_SC/NotoSansSC-Medium.otf');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NotoSansSC';
+    src: url('/fonts/Noto_Sans_SC/NotoSansSC-Bold.otf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NotoSansSC';
+    src: url('/fonts/Noto_Sans_SC/NotoSansSC-Bold.otf');
+    font-weight: Bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NotoSansSC';
+    src: url('/fonts/Noto_Sans_SC/NotoSansSC-Black.otf');
+    font-weight: 900;
+    font-style: normal;
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo_ins</title>
+    <defs>
+        <radialGradient cx="40%" cy="100%" fx="40%" fy="100%" r="100%" id="radialGradient-1">
+            <stop stop-color="#FFDD55" offset="10%"></stop>
+            <stop stop-color="#FF543E" offset="50%"></stop>
+            <stop stop-color="#C837AB" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="0%" y1="0%" x2="20%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#3771C8" offset="10%"></stop>
+            <stop stop-color="#6600FF" stop-opacity="0" offset="50%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="右上角插件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-1646.000000, -149.000000)">
+            <g id="编组-13" transform="translate(1535.000000, 65.000000)">
+                <g id="logo_ins" transform="translate(111.000000, 84.000000)">
+                    <rect id="矩形" fill="#D8D8D8" x="0" y="0" width="36" height="36" rx="11"></rect>
+                    <g id="68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667">
+                        <g id="b-link" fill="url(#radialGradient-1)" fill-rule="nonzero">
+                            <rect id="b" x="0" y="0" width="36" height="36" rx="11"></rect>
+                        </g>
+                        <g id="b-link" fill="url(#linearGradient-2)" fill-rule="nonzero">
+                            <rect id="b" x="0" y="0" width="36" height="36" rx="11"></rect>
+                        </g>
+                        <g id="编组" transform="translate(2.513966, 2.513966)" stroke="#FFFFFF" stroke-width="3">
+                            <rect id="矩形" x="0" y="0" width="30.972067" height="30.972067" rx="8.1"></rect>
+                            <circle id="椭圆形" cx="15.4860335" cy="15.4860335" r="7.24022346"></circle>
+                            <circle id="椭圆形" cx="24.6368715" cy="6.33519553" r="1"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

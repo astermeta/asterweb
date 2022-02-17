@@ -1,0 +1,14 @@
+/* ============================ varela ============================ */
+@font-face {
+    font-family: 'varela_round';
+    src: url('/fonts/Varela_Round/VarelaRound-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'varela';
+    src: url('/fonts/Varela/Varela-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}

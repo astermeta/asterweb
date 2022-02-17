@@ -1,0 +1,33 @@
+@import './fonts/livvic.css';
+@import './fonts/notoSans.css';
+@import './fonts/notoSansSC.css';
+@import './fonts/roboto.css';
+/* @import './fonts/varela.css'; */
+
+
+
+
+
+body,
+html {
+
+    font-family: 
+        Roboto,
+        NotoSans,
+        Helvetica,
+        Arial,
+        PingFang SC,
+        NotoSansSC,
+        Hiragino Sans GB,
+        Heiti SC,
+        Microsoft YaHei,
+        WenQuanYi Micro Hei,
+        sans-serif;
+}
+
+
+
+.font-monospace {
+
+    font-family: Roboto, PingFang SC, NotoSansSC, NotoSans, Hiragino Sans GB, Heiti SC, Microsoft YaHei, WenQuanYi Micro Hei, Helvetica, Arial, monospace;
+}
